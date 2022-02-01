@@ -1,0 +1,38 @@
+{
+   "token": "OTM0NDMxMDQ4NTIyMTQ5OTc4.Yev-ug.pHTHIFfp7SUr-bg_-oxJoZrxUvg",
+   "prefix": "+",
+   "ownerIDS": [
+      "853109559355113503"
+   ],
+   "memer_api": "mXlMNYMdFEp",
+   "status": {
+      "text": "discord.gg/kinkdev",
+      "text2": "BEST FREE & PAID DISCORD BOTS ;)",
+      "type": "STREAMING",
+      "url": "https://twitch.tv/milratoDiscordBot"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "node01.lavalink.eu",
+            "port": 2333,
+            "password": "Raccoon"
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "135c833e1383499f9691bf2edb8cd424",
+      "clientID": "77d3619442b04f79a069e42ebc312e67"
+   },
+   "settings": {
+      "leaveOnEmpty_Channel": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "selfDeaf": true
+   }
+}
